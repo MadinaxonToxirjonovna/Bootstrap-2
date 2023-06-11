@@ -1,0 +1,278 @@
+.carousel-inner img{
+    width: 60%;
+    height: 600px;
+}
+
+
+
+/*.container1{*/
+/*    width: 100%;*/
+/*    height: 90vh;*/
+/*    background: gray;*/
+/*    margin-top: 50px;*/
+/*}*/
+
+
+/*.main{*/
+/*    width: 25%;*/
+/*    height: 600px;*/
+/*    background: white;*/
+/*}*/
+
+/*.main h1{*/
+/*    font-size: 50px;*/
+/*    color: white;*/
+/*    background: black;*/
+/*    padding: 15px 20px 15px 70px;*/
+
+/*}*/
+
+/*.main h2{*/
+/*    font-size: 30px;*/
+/*    color: black;*/
+/*    background: white;*/
+/*    padding: 15px 20px 15px 20px;*/
+/*}*/
+
+
+/*.ulli{*/
+/*    margin-left: 33px;*/
+/*    width: 85%;*/
+/*    height: 330px;*/
+/*    background: #0f6674;*/
+/*   border-radius: 5px;*/
+/*}*/
+
+
+
+/*.link1{*/
+/*    height: 75px;*/
+/*    font-size: 20px;*/
+/*    background: #17a2b8;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: flex-start;*/
+
+/*}*/
+
+/*.link2{*/
+/*    height: 75px;*/
+/*    font-size: 20px;*/
+/*    background: #e4606d;*/
+/*}*/
+
+/*.link3{*/
+/*    height: 75px;*/
+/*    font-size: 20px;*/
+/*    background: #34ce57;*/
+/*}*/
+
+/*.link4{*/
+/*    height: 75px;*/
+/*    font-size: 20px;*/
+/*    background: #17a2b8;*/
+/*}*/
+
+
+/*.link5{*/
+/*    height: 75px;*/
+/*    font-size: 20px;*/
+/*    background: white;*/
+/*}*/
+
+
+/*.card-header h1{*/
+/*    font-size: 50px;*/
+/*        color: white;*/
+/*    padding: 15px 20px 15px 70px;*/
+/*}*/
+
+/*.card-body h2{*/
+/*    font-size: 30px;*/
+/*        color: black;*/
+
+/*        padding: 15px 20px 15px 10px;*/
+/*}*/
+
+
+
+
+.container h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box{
+    background: lightgray;
+    width: 300px;
+    height: 300px;
+    border: 2px solid grey;
+
+}
+
+.box th h2 {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box p{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.box1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.box button {
+    margin-top: 10px;
+    background: #005cbf;
+    margin-left: 20px;
+    width: 85%;
+    height: 40px;
+    border-radius: 5px ;
+    color: white;
+    border-color: #005cbf;
+}
+
+.box button:hover{
+    background: white;
+    color: #005cbf;
+}
+
+
+span{
+    color: #5a6268;
+}
+
+.link button{
+    background: white;
+    border: 2px solid blue;
+    color: blue;
+}
+
+.box p{
+   /*background: #e4606d;*/
+    margin-left: 85px;
+}
+
+
+
+
+                                                  /*uy ishi 2*/
+
+.body{
+    background: lightgray;
+}
+
+
+.container{
+    width: 100%;
+}
+
+.container h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box{
+    background: lightgray;
+    width: 300px;
+    /*height: 100px;*/
+}
+
+.box th h2 {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box p{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.box1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.box button {
+    margin-top: 10px;
+    background: #005cbf;
+    margin-left: 20px;
+    width: 85%;
+    height: 40px;
+    border-radius: 5px ;
+    color: white;
+    border-color: #005cbf;
+}
+
+.box button:hover{
+    background: white;
+    color: #005cbf;
+}
+
+.text{
+    padding-left: 48px;
+    padding-top: 10px;
+}
+
+
+
+
+
+.card-body p{
+    color: #5a6268;
+    font-size: 15px;
+
+}
+
+
+.card-body span{
+    margin: -500px 10px 50px 250px;
+}
+
+
+
+
+h2{
+    color: white;
+}
+
+col{
+    width: 100px;
+    height: 150px;
+}
